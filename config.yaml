@@ -30,7 +30,7 @@ params:
     favicon: pet-house-kennel
 
     footer:
-        since: 2022.9
+        since: 2022
         customText:
 
     dateFormat:
