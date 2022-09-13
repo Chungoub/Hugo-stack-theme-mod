@@ -9,7 +9,7 @@ license: false
 menu: 
     main:
         name: friends
-        weight: -90
+        weight: -80
         params:
             icon: home
         
@@ -29,7 +29,7 @@ menu:
 
 
 
- 这个标题默认隐藏了标题与页尾，推荐用以下格式来交换友情链接。
+ <!-- 这个标题默认隐藏了标题与页尾，推荐用以下格式来交换友情链接。
 
 友链头像放在`/assets/link-img`，友链数据放在`/data/links.json`
 
@@ -57,5 +57,5 @@ link.json格式为：
 > 名称：小球飞鱼  
 > 简介：我们会一起遇见鲸鱼吗？  
 > 地址：[https://mantyke.icu/](https://mantyke.icu/)  
-> 头像：[https://cdn.jsdelivr.net/gh/Mantyke/photo@master/star_min.png](https://cdn.jsdelivr.net/gh/Mantyke/photo@master/star_min.png)
+> 头像：[https://cdn.jsdelivr.net/gh/Mantyke/photo@master/star_min.png](https://cdn.jsdelivr.net/gh/Mantyke/photo@master/star_min.png) -->
 
