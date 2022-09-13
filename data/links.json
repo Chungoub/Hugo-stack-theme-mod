@@ -1,8 +1,14 @@
 [
 	{
-        "title": "MyNotionSite",
+        "title": "My Notion Site",
         "website": "https://www.notion.so/chungou/Welcome-Home-Chungou-a80194da7a764205b768439536cf32fb",
         "image": "monika.jpg",
      "description": "Let's go away and never come back. We'll see the whole wide world. Are you game?"
+    },
+    {
+        "title": "My Fedi Doppelgänger",
+        "website": "https://douchi.space/web/@BountyHunker",
+        "image": "Alex.jpeg",
+     "description": "*Oblivion*, that's... so me."
     }
 ]
