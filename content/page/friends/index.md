@@ -21,6 +21,9 @@ menu:
 .article-footer {
 	display: none;
   }
+.main-article {
+	display: none;
+  }
 
 </style>
 
