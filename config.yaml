@@ -192,7 +192,7 @@ menu:
           name: Notion
           url: https://www.notion.so/chungou/Welcome-Home-Chungou-a80194da7a764205b768439536cf32fb
           params:
-              icon: icons/notion-logo.png
+              icon: icons/notion-logo
 
 related:
     includeNewer: true
