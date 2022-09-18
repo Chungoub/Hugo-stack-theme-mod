@@ -6,8 +6,8 @@ image:
 categories:
     - Annual Game Reviews
 ---
-# 一、**目录**
-由于Notion原页面中采用的是Table of content功能，在文章开头创建一个目录，如果不使用第三方插件的话是无法实现侧边栏目录的功能的。好在这个博客模板足够强大，
+# 一、目录
+由于Notion原页面中采用的是Table of content功能，在文章开头创建一个目录，如果不使用第三方插件的话是无法实现侧边栏目录的功能的。好在这个博客模板足够强大，在网页全屏情况下具有固定在页面右侧的目录，可以随时跳转到所要查看的block。感叹一声不用自己编辑真是太方便了！
 
 # 二、全局总结
 
@@ -19,10 +19,11 @@ categories:
 
 # 三、颁奖典礼
 
-## 1. 年度最佳 （共2100字）
+## **年度最佳 （共2100字）**
 
 ### **METAL GEAR SOLID V: THE PHANTOM PAIN**
-**[Notion Portal](https://www.notion.so/METAL-GEAR-SOLID-V-THE-PHANTOM-PAIN-2294ccfb79ee4f1d91f0cb257947a2d7)**
+
+:point_right: **[Notion Portal](https://www.notion.so/METAL-GEAR-SOLID-V-THE-PHANTOM-PAIN-2294ccfb79ee4f1d91f0cb257947a2d7)**
 
 ★★★★★
 
@@ -45,7 +46,7 @@ categories:
 
 ### **Divinity: Original Sin II**
 
-**[Notion Portal](https://www.notion.so/Divinity-Original-Sin-II-83d9e07cab694dc9aed698593f2f7202)**
+:point_right: **[Notion Portal](https://www.notion.so/Divinity-Original-Sin-II-83d9e07cab694dc9aed698593f2f7202)**
 
 ★★★★★
 
@@ -60,7 +61,6 @@ categories:
 <br />
 同样的，原罪二对我而言最强大的部分并非战斗系统，而是勾前连后的故事性，或者说一个优秀的剧本。当然，我一周目通关的时候觉得这游戏精髓是战斗，到二周目能用独狼单刷tactic mode就觉得数值系统和装备系统有缺陷了，三周目发现一名角色脱离战斗后再加入，如此循环可以永远不到对手回合的操作后就觉得相当无趣了。抛开破坏回合制基本规则的漏洞不谈，神界原罪二的数值增长更接近乘法而不是传统战棋的加法，局内一刀999和局外为了换一件粉装斟酌半天，这两种矛盾状态确实可能同时存在。这应该有制作组为了加快游戏节奏、摒弃传统战棋战斗拖沓的考虑在内，但这也恰恰是我最不喜欢的“通胀式数值设计”。而游戏的故事打完三遍却仍然不丧失吸引力，首先每个队员都有自己的独特背景故事和剧情走向，其次是选择（或者不选择）学习秘源可以完成不同导师的任务，最后是选择不同结局（甚至可以队友祭天），每一种不同的分支都是一次不同的游戏体验，每一本小册子上的信息都会常读常新。
 <br />
-<br />
 <details>
 <summary>
 也正因为剧情的紧密相连以及次文本(subtext)的丰富，本作几乎没有初代那种为战斗而战斗的缺陷。（<span style="color:red">小剧透</span>） 
@@ -74,7 +74,7 @@ categories:
 
 ### **Disco Elysium**
 
-**[Notion Portal](https://www.notion.so/Disco-Elysium-71b323d7d5b94b84878daf9d77e7848a)**
+:point_right: **[Notion Portal](https://www.notion.so/Disco-Elysium-71b323d7d5b94b84878daf9d77e7848a)**
 
 ★★★★★
 
@@ -84,9 +84,9 @@ categories:
 
 ## **意外惊喜 （共1700字，另有折叠评论1700字）**
 
-### Phoenix Point
+### **Phoenix Point**
 
-**[Notion Portal](https://www.notion.so/Phoenix-Point-f60a0bc139794cba91319a650dc4b273)**
+:point_right: **[Notion Portal](https://www.notion.so/Phoenix-Point-f60a0bc139794cba91319a650dc4b273)**
 
 ★★★★
 
@@ -161,7 +161,8 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 ![](DrawSword.gif "DrawSword")
 
 ### **Katana ZERO**
-**[Notion Portal](https://www.notion.so/Katana-ZERO-bcfa7cd3de46426cbf266d984987e649)**
+
+:point_right: **[Notion Portal](https://www.notion.so/Katana-ZERO-bcfa7cd3de46426cbf266d984987e649)**
 
 ★★★★
 
@@ -177,7 +178,7 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 
 ### **Griftlands**
 
-**[Notion Portal](https://www.notion.so/Griftlands-81368c4120f04822b66d81e37ae11671)**
+:point_right: **[Notion Portal](https://www.notion.so/Griftlands-81368c4120f04822b66d81e37ae11671)**
 
 ★★★☆
 
@@ -195,7 +196,7 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 
 ### **Stoneshard**
 
-**[Notion Portal](https://www.notion.so/Stoneshard-630b9747c20b46b3af4cc604c9877608)**
+:point_right: **[Notion Portal](https://www.notion.so/Stoneshard-630b9747c20b46b3af4cc604c9877608)**
 
 ★★★
 
@@ -219,7 +220,8 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 
 ### **Mount & Blade II: Bannerlord**
 
- **[Notion Portal](https://www.notion.so/chungou/Mount-Blade-II-Bannerlord-e7b031221c304f4fae534e99702efc21)**
+:point_right: **[Notion Portal](https://www.notion.so/chungou/Mount-Blade-II-Bannerlord-e7b031221c304f4fae534e99702efc21)**
+
 **？？？（没在Game2020中标记诶，那就不放链接了）**
 
 **Last Played Version**: e1.4.2 (e1.5.7 now available)
@@ -248,7 +250,7 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 ## **彩蛋三枚（共1300字，另有废话2400字）**
 
 ### **Chungou的痛苦小皮鞭 - Darkest Dungeon**
-**[Notion Portal](https://www.notion.so/Darkest-Dungeon-4a71e851e5bd496e8759c625f63a476b)**
+:point_right: **[Notion Portal](https://www.notion.so/Darkest-Dungeon-4a71e851e5bd496e8759c625f63a476b)**
 
 ★★★★☆
 
@@ -258,9 +260,7 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 它们的共同点大概是永久死亡、几乎不能SL、氛围极其黯淡、学习曲线平滑（基础上手门槛高、进阶困难等）、有着自己独特的叙述美学。然而由痛苦导向快乐的前提是，你在玩的是一个优秀的游戏作品。如果质量没有达标，那种空有痛苦的感觉应该是没有玩家希望体验到的。鉴于黑暗地牢也不是什么新游戏了，脱离EA后也就是打补丁、调平衡、出dlc之类的完善操作，其实雏形在16年就已经形成了，各路评论也已经很多了，于是乎就在最后贴几个有着类似哲学属性的作品好了...
 
 ![长这么大玩过最痛苦的战棋，没有之一。不光是因为每次小退都会自动切换成一坨简中汉化。](Bannder-Saga.jpg "Bannder-Saga")&ensp;&ensp;![啊...这个其实不应该算的! 感觉换成血源更合适。](Dark-Souls-III.jpg "Dark-Souls-III")
-
 ![A very painful & bizarre indie game. Don't try unless you are as heartless as Chungou.](Lisa.jpg "Lisa")&ensp;&ensp;![快乐有时候来自于难度，但痛苦从来都不是。](This-War-of-Mine.jpeg "This-War-of-Mine")
-
 ![Wizardry](Wizardry.jpeg "Wizardry")
 
 世界上最痛苦的RPG，不看攻略不开辅助，据记载世界上只有三个人通关。不好意思，前面几个游戏的痛苦程度加在一起也没有Wizardry IV前三层来得多。这是每个自诩游戏精英的玩家都应该尝试的作品，不管是在第几分钟放弃，它都会作为里程碑载入你的私人游戏史，标志着你对游戏的痛苦哲学有了无上的切身体会：痛苦只是手段，而不是目的。
@@ -269,7 +269,7 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 
 ### **Chungou的怀旧大冒险 - 仙劍奇俠傳**
 
-**[Notion Portal](https://www.notion.so/The-Legend-of-Sword-and-Fairy-Chinese-Paladin-4598847c5c1d47428af26de382ae0228)**
+:point_right: **[Notion Portal](https://www.notion.so/The-Legend-of-Sword-and-Fairy-Chinese-Paladin-4598847c5c1d47428af26de382ae0228)**
 
 ★★★★☆
 
@@ -282,7 +282,7 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 
 ### **Chungou的快乐彩虹糖 - Fae Tactic**
 
-**[Notion Portal](https://www.notion.so/Fae-Tactics-48704040ce6547dba60d8ac6dc1286e5)**
+:point_right: **[Notion Portal](https://www.notion.so/Fae-Tactics-48704040ce6547dba60d8ac6dc1286e5)**
 
 ★★★
 
@@ -304,7 +304,7 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 所以说当看到这个小制作组在自己网站上发声明说感谢大家支持，现在正在和外面的组合作移植到console上（因为技术原因自己搞不定），我就觉得他们好困窘好贫乏，就算做出了这么一个并不算好玩而且缺点很多的游戏，但是却当作自己的宝贝，这种精神让我瞬间感动，并且让我回想起上次类似的感动是感受到潘大吐槽bug太多自己写脚本能力又跟不上，承诺会尽快打新版本补丁时喜忧参半的语气。所以好不好玩什么的都无所谓了，我只打了五十个小时，而背后的他们却为了给我带来快乐而呕心沥血了五千个小时。感谢五十多个小时的陪伴，Peony和Endlessfluff Games的大家，江湖有缘再会啦！
 <br /><br />
 <details>
-<summary>最后贴一下已经完全不重要的评论（大量剧透警告⚠️）</summary>
+<summary>最后贴一下已经完全不重要的评论（<span style="color:red">大量剧透警告⚠️</span>）</summary>
 50h+ 和通关存档计时42h比起来发现竟然有8h是战斗读档时间，侧面反应SLG战棋是有多么拖节奏。没刻意刷过，主线支线全清，界面上可见的任务和故事全完成，队友结局竟然还有四个B (Peony - A the girl who saved the world, Pichon - B, Chico - B, Orowantus - B, Erisolde - B, Payachin - A, Tom Tildrum - A)
     
 ![Fae Tactic Save](Fae-Tactic-Save.jpg "Fae-Tactic-Save")
