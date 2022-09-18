@@ -36,7 +36,7 @@ categories:
 
 > -&nbsp;What if she's a spy?<br>- What if I'm a spy?
 
-![METAL GEAR SOLID V: THE PHANTOM PAIN](/mgs-v.jpg "METAL GEAR SOLID V: THE PHANTOM PAIN")
+![METAL GEAR SOLID V: THE PHANTOM PAIN](mgs-v.jpg "METAL GEAR SOLID V: THE PHANTOM PAIN")
 
 遇到这个游戏真的是本年度惊喜，也算是某种必然吧。年中的时候和好友连麦各自玩Fallout 4，他提到准备在展示课上介绍合金装备的叙述手法（大概是所谓的电影化叙事，虽然我完全不care），顺便和不太行的辐射4进行对比。而且之前一直有豆瓣友邻对这个游戏赞誉有加，再加上由于本人十一月份玩了太久的战棋，导致十二月中旬有点想换换口味，遂在年关将近，用半个月时间体验了一下。写下这篇总结前大约打了65h，Chapter 2 推到一半，全局45%完成度，是要接下去继续玩到通关的游戏之一。
 
@@ -79,7 +79,7 @@ categories:
 
 ★★★★★
 
-![Divinity: Original Sin II](/Divinity_Original_Sin_II.webp "Divinity_Original_Sin_II")
+![Divinity: Original Sin II](Divinity_Original_Sin_II.webp "Divinity_Original_Sin_II")
 
 说起来，这是第三次通关这个游戏了，因为今年和好友在无外部备份存档的情况下合作通关了最高难度honor mode，所以算是正式完结，大概游戏时长也会永久定格在320.6h上吧（实际上打了350h左右）。但是还是略有遗憾的，比如Lohse的所有剧情我从未体验过，这大概是唯一一位n周目从未带上船的伙伴了，而且她的最终剧情还特别棒，无缘听到她的歌声了，呜呜呜。
 
