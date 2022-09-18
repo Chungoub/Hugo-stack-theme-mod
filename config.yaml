@@ -30,7 +30,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: favicon.svg
+    favicon: icons/favicon.svg
 
     footer:
         since: 2022
