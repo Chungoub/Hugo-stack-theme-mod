@@ -118,15 +118,11 @@ categories:
 **再梳理一下XCOM系列**<br />
 **1994: X-COM: UFO Defense (UFO: Enemy Unknown)**
 
+![X COM UFO Defense Coverart](X-COM-UFO-Defense-Coverart.png "X-COM-UFO-Defense-Coverart")![UFO Battle](UFO-Battle.jpg "UFO-Battle")
 由Julian Gollop设计、MicroProse在DOS和Windows等平台上发行的初代XCOM原型体，虽然那个时候我还没有出生，但是以后要买盘考古也不是不行...虽说是初代，却已然是巅峰，不仅奠定了后世作品的玩法基调——造基地、造飞船、招兵买马、打外星人、发展科技等等，而且系统之复杂、规模之宏大、策略之多元，在那个年代是难以想象的，甚至可以令当今的几部续作汗颜。
 
-![X COM UFO Defense Coverart](X-COM-UFO-Defense-Coverart.png "X-COM-UFO-Defense-Coverart")
-
 ![UFO Power Suit](UFO-Power-Suit.jpg "UFO-Power-Suit")
-
 局外构筑据说有复杂的加点和装备调度，局内战斗据说也有不同开火模式 (aiming, overwawtch, burst etc.) 和操作策略，特别是当小队人数达到一定规模后，会特别好玩（吧）。还有个2014年的游戏Xenonauts（由Goldhawk Interactive制作发行），打着重制版的旗号，但是看起来并不好玩。现在二代也处于EA当中，情况也不是很乐观。至于在新千年前后一大票顶着XCOM之名在Windows上发售的没什么影响力的作品就暂且忽略不计了。
-
-![UFO Battle](UFO-Battle.jpg "UFO-Battle")
 
 **2012: XCOM: Enemy Unknown**
 
@@ -214,9 +210,7 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 
 依此为对照，Stoneshard的地图系统也是一脉相承，最危险的地方（比如巨魔领域或者盗贼巢穴、腐化修道院等）被标上问号，而城镇和郊区、一些新手副本则被画了出来，同时，主角的位置不会显示在地图上，只能依照自己的记忆和周边地貌判断自己大致在哪一图格。虽然一开始玩的时候，我这个超级大路痴一直破口大骂，尤其是满载而归却因为看不来地图回不到城镇导致半夜被截杀，但是被虐着虐着一股钦佩之情反而油然而生。我不断反问自己：如果Fallout的pip-boy出现在这个游戏，或者这个游戏的羊皮卷地图替代了废土世界的电子导航，难道会使两个游戏各自变得更好吗？显然，没有最好的，只有最合适的系统。而这个制作组在“让我们的游戏适配最合适的地图系统”和“让玩家有最舒适的地图体验”之间做出了他们的选择，respect！
 
-![Stone Shard Map](Stone-Shard-Map.jpg "Stone-Shard-Map")
-
-![Stone-Shard-Backpack](Stone-Shard-Backpack.jpg "Stone-Shard-Backpack")
+![Stone Shard Map](Stone-Shard-Map.jpg "Stone-Shard-Map")![Stone-Shard-Backpack](Stone-Shard-Backpack.jpg "Stone-Shard-Backpack")
 
 ### **Mount & Blade II: Bannerlord**
 
@@ -260,9 +254,10 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 它们的共同点大概是永久死亡、几乎不能SL、氛围极其黯淡、学习曲线平滑（基础上手门槛高、进阶困难等）、有着自己独特的叙述美学。然而由痛苦导向快乐的前提是，你在玩的是一个优秀的游戏作品。如果质量没有达标，那种空有痛苦的感觉应该是没有玩家希望体验到的。鉴于黑暗地牢也不是什么新游戏了，脱离EA后也就是打补丁、调平衡、出dlc之类的完善操作，其实雏形在16年就已经形成了，各路评论也已经很多了，于是乎就在最后贴几个有着类似哲学属性的作品好了...
 
 ![长这么大玩过最痛苦的战棋，没有之一。不光是因为每次小退都会自动切换成一坨简中汉化。](Bannder-Saga.jpg "Bannder-Saga")&ensp;&ensp;![啊...这个其实不应该算的! 感觉换成血源更合适。](Dark-Souls-III.jpg "Dark-Souls-III")
+<br />
 ![A very painful & bizarre indie game. Don't try unless you are as heartless as Chungou.](Lisa.jpg "Lisa")&ensp;&ensp;![快乐有时候来自于难度，但痛苦从来都不是。](This-War-of-Mine.jpeg "This-War-of-Mine")
+<br />
 ![Wizardry](Wizardry.jpeg "Wizardry")
-
 世界上最痛苦的RPG，不看攻略不开辅助，据记载世界上只有三个人通关。不好意思，前面几个游戏的痛苦程度加在一起也没有Wizardry IV前三层来得多。这是每个自诩游戏精英的玩家都应该尝试的作品，不管是在第几分钟放弃，它都会作为里程碑载入你的私人游戏史，标志着你对游戏的痛苦哲学有了无上的切身体会：痛苦只是手段，而不是目的。
 
 最后插一句，Darkest Dungeon里面的角色在stress bar变满之后会经历一场考验，绝大多数成为了traumatized troublemaker，少数由于具备特定quirk (可以看作是天赋秉性）或是佩带了trinket (可以看作是寄托了信念的护身符）或是单纯挺过了至暗时刻而成为“the Enlightened”，在队伍中发挥至关重要的作用。其实生活就是黑暗地牢，如果你现在正在像Chungou一样经历着考验，或者正在更加阴暗的副本中劈荆斩棘... Pathfinder, let's sit around the bonfire and inquiry - post-traumatic growth or post-traumatic stress disorder, which way?

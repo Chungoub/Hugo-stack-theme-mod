@@ -7,6 +7,9 @@ title: Chun Homestead
 # Change it to your Disqus shortname before using
 disqusShortname: stack
 
+# Globally enable emoji by typing shorthand codes
+enableEmoji: true
+
 # GA Tracking ID
 googleAnalytics:
 
