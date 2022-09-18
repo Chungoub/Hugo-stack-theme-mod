@@ -3,8 +3,9 @@ title: Annual Game Reviews - 2020
 description: Chungou的2020年度游戏总结，搬运自Notion主页
 date: 2021-01-19
 image:
+tags: "Annual Game Review"
 categories:
-    - Annual Game Review
+    - Game
 ---
 # 一、目录
 由于Notion原页面中采用的是Table of content功能，在文章开头创建一个目录，如果不使用第三方插件的话是无法实现侧边栏目录的功能的。好在这个博客模板足够强大，在网页全屏情况下具有固定在页面右侧的目录，可以随时跳转到所要查看的block。感叹一声不用自己编辑真是太方便了！
