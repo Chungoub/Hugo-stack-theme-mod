@@ -1,5 +1,5 @@
 ---
-title: "Annual Game Review"
+title: "Game"
 description: "This is a tag recording the annual rejoice of gaming, regurgitating and reaping."
 slug: "game"
 image: "hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg"
