@@ -36,7 +36,7 @@ categories:
 
 > -&nbsp;What if she's a spy?<br>- What if I'm a spy?
 
-![METAL GEAR SOLID V: THE PHANTOM PAIN](mgs-v.jpg "METAL GEAR SOLID V: THE PHANTOM PAIN")
+![METAL GEAR SOLID V: THE PHANTOM PAIN](./Annual-Game-Reviews-2020/mgs-v.jpg "METAL GEAR SOLID V: THE PHANTOM PAIN")
 
 遇到这个游戏真的是本年度惊喜，也算是某种必然吧。年中的时候和好友连麦各自玩Fallout 4，他提到准备在展示课上介绍合金装备的叙述手法（大概是所谓的电影化叙事，虽然我完全不care），顺便和不太行的辐射4进行对比。而且之前一直有豆瓣友邻对这个游戏赞誉有加，再加上由于本人十一月份玩了太久的战棋，导致十二月中旬有点想换换口味，遂在年关将近，用半个月时间体验了一下。写下这篇总结前大约打了65h，Chapter 2 推到一半，全局45%完成度，是要接下去继续玩到通关的游戏之一。
 
@@ -79,7 +79,7 @@ categories:
 
 ★★★★★
 
-![Divinity: Original Sin II](/images/Divinity_Original_Sin_II.webp)
+![Divinity: Original Sin II](./Annual-Game-Reviews-2020/Divinity_Original_Sin_II.webp "Divinity_Original_Sin_II")
 
 说起来，这是第三次通关这个游戏了，因为今年和好友在无外部备份存档的情况下合作通关了最高难度honor mode，所以算是正式完结，大概游戏时长也会永久定格在320.6h上吧（实际上打了350h左右）。但是还是略有遗憾的，比如Lohse的所有剧情我从未体验过，这大概是唯一一位n周目从未带上船的伙伴了，而且她的最终剧情还特别棒，无缘听到她的歌声了，呜呜呜。
 
@@ -108,7 +108,7 @@ categories:
 
 ★★★★★
 
-![Disco Elysium](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Disco%20Elysium.jpg)
+![Disco Elysium](./Annual-Game-Reviews-2020/Disco%20Elysium.jpg "Disco Elysium")
 
 都2022了还不快去把结局通了！不写了！生气气！
 
@@ -123,7 +123,7 @@ categories:
 > Sometimes the end has to justify the means.
 > 
 
-|![](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Phoenix-Point-Cover.jpeg "Phoenix Point Cover")|
+|![](./Annual-Game-Reviews-2020/Phoenix-Point-Cover.jpeg "Phoenix Point Cover")|
 |:--:|
 |找不到很好看的封面了(>～<)，而且玩的不是year one edition，所以不想用那个黄色调的...|
 
@@ -135,7 +135,7 @@ categories:
 连续十二天平均每天七八个小时，磨完主线流程和绝大部分支线。dlc质量较差，特别是artifact，强行拖时间，基本上可以直接忽略。选择了走Phoenix Point 正统结局，利用古代人Antivirus 科技消灭Yuggothion Receptacle然后同时对现在的世界生态造成巨大损伤 (Sometimes the end has to justify the means.) 还有三个派系结局，Disciples of Anu 变异女教皇统治世界人类开始进化（Phoenix Point eventually faded into shadow.）、New Jericho 建立人类共同联盟、Synderion净化世界但是没有打败Yuggothian。总觉得不论走什么路，都是悲观主义基调，虽然有一丝丝的希望，总体上真是很伤感啊。<br /><br />
 游戏内的势力分布包括：1. Phoenix Point 作为上个世代人类遗留下来的自救计划/组织，是玩家操控的主要对象。 2. The Disciples of Anu 宗教团体，由不完全受外星人掌控的女教皇主导，倡导人类不断进化与新世界共存 3. New Jericho 军事力量最强的独裁势力，相当于保守的人类主义者，要消灭一切变异病毒 4. Synderion 实力最弱的环保主义两面派，派系内的两种声音在游戏早期就呈递给玩家选择，净化世界or融入世界 5. The Pure 赛博主义游击队，全员实现高度义体化，并且致力于把全人类向机械生命体的方向转变，由于首领讲话太嚣张自身又没什么实力，前期帮了几次后面被我灭掉了。6. The Forsaken 一些派系内分裂出来的小团体或者中立小势力，例如图中的日本女皇，还有新西兰刷出来过一个叫the Father 的Anu内部的教派领袖，扶持他们可以帮助破坏敌对势力的基地，虽然我只是为了好玩才做这些刷出来的中立任务的。。。
     
-![The Empress](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/The%20Empress.jpg "The Empress")
+![The Empress](./Annual-Game-Reviews-2020/The%20Empress.jpg "The Empress")
     
 感觉这个游戏的势力和Fallout 4很像，The Disciples of Anu 就相当于The Institute，积极融入新时代，New Jericho 和 The Brotherhood of Steel如出一辙，而Synderion简直是白左Railroad的翻版。因为游戏类型不同而没有RPG的人物刻画和挖掘，比如说在PP里体验不到Paladin Danse般的剧情是很正常的一件事，但是对于派系间的尔虞我诈和更为深入的diplomacy本应当作为主要的局外内容，却表现得不尽如人意。除了接各种破坏基地的任务之外，仅有的体现各派系互相攻讦的手段就是在随机刷出来的黄标支线任务中。所有本应具有表现力的元素都被简化为两三个好感度浮动数值，而出发这一切的源头就是一个简单的accept键。
     
