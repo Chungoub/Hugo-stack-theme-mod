@@ -36,7 +36,7 @@ categories:
 
 > -&nbsp;What if she's a spy?<br>- What if I'm a spy?
 
-![METAL GEAR SOLID V: THE PHANTOM PAIN](mgs-v.jpg)
+![METAL GEAR SOLID V: THE PHANTOM PAIN](mgs-v.jpg "METAL GEAR SOLID V: THE PHANTOM PAIN")
 
 遇到这个游戏真的是本年度惊喜，也算是某种必然吧。年中的时候和好友连麦各自玩Fallout 4，他提到准备在展示课上介绍合金装备的叙述手法（大概是所谓的电影化叙事，虽然我完全不care），顺便和不太行的辐射4进行对比。而且之前一直有豆瓣友邻对这个游戏赞誉有加，再加上由于本人十一月份玩了太久的战棋，导致十二月中旬有点想换换口味，遂在年关将近，用半个月时间体验了一下。写下这篇总结前大约打了65h，Chapter 2 推到一半，全局45%完成度，是要接下去继续玩到通关的游戏之一。
 
@@ -108,7 +108,7 @@ categories:
 
 ★★★★★
 
-![Disco Elysium](./Annual-Game-Reviews-2020/Disco%20Elysium.jpg "Disco Elysium")
+![Disco Elysium](Disco%-Elysium.jpg "Disco Elysium")
 
 都2022了还不快去把结局通了！不写了！生气气！
 
@@ -123,7 +123,7 @@ categories:
 > Sometimes the end has to justify the means.
 > 
 
-|![](./Annual-Game-Reviews-2020/Phoenix-Point-Cover.jpeg "Phoenix Point Cover")|
+|![Phoenix Point Cover](Phoenix-Point-Cover.jpeg "Phoenix Point Cover")|
 |:--:|
 |找不到很好看的封面了(>～<)，而且玩的不是year one edition，所以不想用那个黄色调的...|
 
@@ -135,14 +135,14 @@ categories:
 连续十二天平均每天七八个小时，磨完主线流程和绝大部分支线。dlc质量较差，特别是artifact，强行拖时间，基本上可以直接忽略。选择了走Phoenix Point 正统结局，利用古代人Antivirus 科技消灭Yuggothion Receptacle然后同时对现在的世界生态造成巨大损伤 (Sometimes the end has to justify the means.) 还有三个派系结局，Disciples of Anu 变异女教皇统治世界人类开始进化（Phoenix Point eventually faded into shadow.）、New Jericho 建立人类共同联盟、Synderion净化世界但是没有打败Yuggothian。总觉得不论走什么路，都是悲观主义基调，虽然有一丝丝的希望，总体上真是很伤感啊。<br /><br />
 游戏内的势力分布包括：1. Phoenix Point 作为上个世代人类遗留下来的自救计划/组织，是玩家操控的主要对象。 2. The Disciples of Anu 宗教团体，由不完全受外星人掌控的女教皇主导，倡导人类不断进化与新世界共存 3. New Jericho 军事力量最强的独裁势力，相当于保守的人类主义者，要消灭一切变异病毒 4. Synderion 实力最弱的环保主义两面派，派系内的两种声音在游戏早期就呈递给玩家选择，净化世界or融入世界 5. The Pure 赛博主义游击队，全员实现高度义体化，并且致力于把全人类向机械生命体的方向转变，由于首领讲话太嚣张自身又没什么实力，前期帮了几次后面被我灭掉了。6. The Forsaken 一些派系内分裂出来的小团体或者中立小势力，例如图中的日本女皇，还有新西兰刷出来过一个叫the Father 的Anu内部的教派领袖，扶持他们可以帮助破坏敌对势力的基地，虽然我只是为了好玩才做这些刷出来的中立任务的。。。
     
-![The Empress](./Annual-Game-Reviews-2020/The%20Empress.jpg "The Empress")
+![The Empress](The-Empress.jpg "The Empress")
     
 感觉这个游戏的势力和Fallout 4很像，The Disciples of Anu 就相当于The Institute，积极融入新时代，New Jericho 和 The Brotherhood of Steel如出一辙，而Synderion简直是白左Railroad的翻版。因为游戏类型不同而没有RPG的人物刻画和挖掘，比如说在PP里体验不到Paladin Danse般的剧情是很正常的一件事，但是对于派系间的尔虞我诈和更为深入的diplomacy本应当作为主要的局外内容，却表现得不尽如人意。除了接各种破坏基地的任务之外，仅有的体现各派系互相攻讦的手段就是在随机刷出来的黄标支线任务中。所有本应具有表现力的元素都被简化为两三个好感度浮动数值，而出发这一切的源头就是一个简单的accept键。
     
-![Phoenix Point Ending](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Phoenix%20Point%20Ending.jpg "Phoenix Point Ending")
+![Phoenix Point Ending](Phoenix-Point-Ending.jpg "Phoenix Point Ending")
 作为XCOM系列的精神续作，PP革新了战斗系统，在SLG大框架之下加入FPS作为命中概率的变量，而且由于游戏引擎的设定，多出了一部分可破坏的东西。相当耐人寻味的一种设定，举两个controversial的例子。一是在全身掩体后发动攻击时，通常情况下角色会在战斗结算射击时自动跨出一格射击（当然这也会触发overwatch），而且在瞄准界面显示的是跨出掩体后的视野，但是攻击斜对角的敌人，有时不会采用掩体外的攻击视野，哪怕在掩体后的视野是完全不可见的。二是用重装兵的Mount laser进行稳定输出时，由于射击过程中的时间流动，敌人躯体部位的起伏会导致弹道落空，同样的问题还会出现在监视延迟上，如果敌人在进入范围后、监视者射击前视野恰好被队友挡住，那么子弹会落到自己人身上。不过除开一些大大小小的bug，以救援基地，sabotage，和攻打三种Pandoran base为首的高度重复的战斗，加个augment就是一种新敌人的一贯操作，还有某些武器、兵种、载具的平衡性问题等等之外，战斗系统总体来说还是很不错的。前中期有七八人小团体作战，中后期可以操控多达二十个单位的基地守卫战，既有大场面也有piece of cake。比如第一次见到Scylla的硕大身躯以及得知之后要捕获一只这样的巨兽时，进行到游戏中后期沉寂已久的热情又被燃起来了。
     
-![Scylla](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Scylla.jpg "Scylla")
+![Scylla](Scylla.jpg "Scylla")
     
 最后是局外构筑和building一类的东西，还是具有一定策略性的。比如前期sniper+shotgun的配合，比如后期双职业heavy+sniper爆炸输出，再比如娱乐打法双职业stealth+berserker蜘蛛流。只不过这些人物构筑都是为了战斗而服务，再乐此不疲最终还是要回到重复千百遍的战场上去。相比之下，基地建设就简化得很休闲，总共将近二十种建筑，可以在全球各个设定好的位点建立多个基地，可以拥有最多八艘飞船在全球执行任务（所以任务节奏可以变得很紧）。我的通关存档总共建造了八个基地，四艘飞船，拥有四十多名兵员，后期几乎每隔几秒钟就要进行一次战斗（当然一大部分可以不打）。
 </details>
@@ -153,35 +153,35 @@ categories:
 
 由Julian Gollop设计、MicroProse在DOS和Windows等平台上发行的初代XCOM原型体，虽然那个时候我还没有出生，但是以后要买盘考古也不是不行...虽说是初代，却已然是巅峰，不仅奠定了后世作品的玩法基调——造基地、造飞船、招兵买马、打外星人、发展科技等等，而且系统之复杂、规模之宏大、策略之多元，在那个年代是难以想象的，甚至可以令当今的几部续作汗颜。
 
-![X-COM-UFO-Defense-Coverart](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/X-COM-UFO-Defense-Coverart.png "X-COM-UFO-Defense-Coverart")
+![X COM UFO Defense Coverart](X-COM-UFO-Defense-Coverart.png "X-COM-UFO-Defense-Coverart")
 
-![UFO Power Suit](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/UFO-Power-Suit.jpg "UFO-Power-Suit")
+![UFO Power Suit](UFO-Power-Suit.jpg "UFO-Power-Suit")
 
 局外构筑据说有复杂的加点和装备调度，局内战斗据说也有不同开火模式 (aiming, overwawtch, burst etc.) 和操作策略，特别是当小队人数达到一定规模后，会特别好玩（吧）。还有个2014年的游戏Xenonauts（由Goldhawk Interactive制作发行），打着重制版的旗号，但是看起来并不好玩。现在二代也处于EA当中，情况也不是很乐观。至于在新千年前后一大票顶着XCOM之名在Windows上发售的没什么影响力的作品就暂且忽略不计了。
 
-![UFO Battle](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/UFO-Battle.jpg)
+![UFO Battle](UFO-Battle.jpg "UFO-Battle")
 
 **2012: XCOM: Enemy Unknown**
 
-![XCOM Enemy Unknown](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/XCOM-Enemy-Unknown.jpg "XCOM-Enemy-Unknown")
+![XCOM Enemy Unknown](XCOM-Enemy-Unknown.jpg "XCOM-Enemy-Unknown")
 
 在沉寂了十多年之后，由Firaxis和2k接手的XCOM重新焕发生机，而使大多数新生代玩家熟知XCOM这一ip的就是这部作品，designer换成了Jake Solomon (XCOM‘s stepfather?)。他是XCOM的真爱粉，从2004年开始就有振兴这个游戏的想法，可惜做出来的东西自己都觉得是一坨...幸好有一帮靠谱的组员，于是从2007开始正式开发，并且随着Firaxis给的预算越来越多，XCOM：Enemy Unknown的本体终于在打磨了五年之后问世了（并且走上了dlc越出越多的路）。
 
 **2016: XCOM2**
 
-![XCOM2](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/XCOM2.jpeg "XCOM2")
+![XCOM2](XCOM2.jpeg "XCOM2")
 
 2012年的XCOM我是没有体验过的，正式入坑也是这一部作品。没有购买任何dlc，本体一共玩了30小时左右通关。和最早的UFO相比，新XCOM们不再支持复杂的角色养成与全球基地建设，而是选择性继承了找资源，修缮基地，发展科技，打外星人等核心玩法。其实有所扬弃是必要的，走上这条路的新XCOM将会逐渐脱胎换骨（主要还是有粉丝基础和庞大的预算）。
 
 **2019: Phoenix Point**
 
-![Phoenix Point](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Phoenix-Point.jpeg "Phoenix-Point")
+![Phoenix Point](Phoenix-Point.jpeg "Phoenix-Point")
 
 XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接过火炬完成了这部作品，让XCOM找回了最初的感觉，所以某种意义上来说，这是部粉丝向游戏…PP不仅保留了绝大部分UFO的设定，而且基于Unity引擎发展出的第一人称射击模式（取代了XCOM饱受诟病的命中概率，虽然有些时候也让人很无语就是了...）和破坏掩体（相较于XCOM2的炸穿天花板，能破坏的更多，战术更丰富），一定程度上升华了整个游戏的战斗系统。当然，真的只是一定程度上，有三点天然劣势，不从根本上改变，这个系列就永远无法突破。一是回合制战棋这一游戏类型无法避免的节奏拖沓，二是XCOM一直以来大量重复的任务和关卡，三是毫无策略可言、只是数值比玩家强大的弱智一般的AI。虽然话说得有点狠，但是Phoenix Point还是值得一玩的，不过dlc和最高难度毫无意义，体验到Scylla出场其实就差不多了（个人经验）。
 
 **2020: XCOM: Chimera Squad**
 
-![XCOM Chimera Squad](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/XCOM-Chimera-Squad.jpeg "XCOM-Chimera-Squad")
+![XCOM Chimera Squad](XCOM-Chimera-Squad.jpeg "XCOM-Chimera-Squad")
 
 如果说利用新引擎、新技术不断扩大规模是XCOM系列游戏发展科技树的一个分支，那么与PP几乎是背道而驰，XCOM: CS 走上了另一个分支——缩小体量、集中功能。战斗只能上场四名角色，其他单位就在基地中操作养成系统；长战斗被划分为关卡式的段落，每一段以“突入”作为先手起点，在极小的空间中进行；战斗中单位轮次被分割开，几乎都是敌-我行动，不再存在以往的逐个击破模式；人物角色固定，且增加rpg元素，缩减了养成各个兵种单位所消耗的大量精力。
 
@@ -193,19 +193,16 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 
 ---
 
-![DrawSword](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/DrawSword.gif "Katana ZERO")
+![DrawSword](DrawSword.gif "DrawSword")
 
 ### **[Katana ZERO](https://www.notion.so/Katana-ZERO-bcfa7cd3de46426cbf266d984987e649)**
 
 ★★★★
 
-![Katana-ZERO](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Katana-ZERO.jpg "Katana-ZERO")
+![Katana ZERO](Katana-ZERO.jpg "Katana-ZERO")
 
-![Hades](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Hades.png "Hades")
-
-打个不恰当的比方，在Hades之后玩Katana ZERO，就好像在十五年前玩Cuphead一样（哈哈，一句话黑了三个游戏，虽然它们除了action基本上没什么共同点...）
-
-虽然说这个游戏玩法本质上是靠背板+肌肉记忆，但是核心却绝不是传统意义上的闯关。检验一个东西的重要性的最简单方法，就是把它去掉。倘若这个游戏没有选项、分支和对话，那么上限最多是个爽感十足的HCG。而只有经历了手眼协调的考验之后，再加上那么一点点的灵肉拷问，大概就是目前“优秀游戏”的不二法门了吧。
+![Hades](Hades.png "Hades")
+打个不恰当的比方，在Hades之后玩Katana ZERO，就好像在十五年前玩Cuphead一样（哈哈，一句话黑了三个游戏，虽然它们除了action基本上没什么共同点...）虽然说这个游戏玩法本质上是靠背板+肌肉记忆，但是核心却绝不是传统意义上的闯关。检验一个东西的重要性的最简单方法，就是把它去掉。倘若这个游戏没有选项、分支和对话，那么上限最多是个爽感十足的HCG。而只有经历了手眼协调的考验之后，再加上那么一点点的灵肉拷问，大概就是目前“优秀游戏”的不二法门了吧。
 
 ---
 
@@ -219,7 +216,7 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 
 **Recent Played**: Nov 27, 2020
 
-![Griftlands](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Griftlands.jpg "Griftlands")
+![Griftlands](Griftlands.jpg "Griftlands")
 
 **Sep 15, 2020**
 这个游戏算是“把一种游戏类型做到极致”的教科书：经验与实力并存的制作团队（Klei），吸收了大量前人的经验（Slay the Spire的部分局内玩法和运行模式），以及推陈出新、融会贯通（回合制rpg并肩作战的队友，roguelike的随机事件，养成游戏的人物好感和剧情走向）。虽然每一种游戏类型都有各自天生的不足之处（当然它们也有各自的使命），在这个麻雀虽小五脏俱全的优秀作品中，我能够感受到制作组为了冲淡“刷”这一核心玩法而加入的剧情、对话、主角的背景故事等元素，也充分体验到以数值为核心的策略性与随机性的平衡，已经很令人满意了。
@@ -239,17 +236,17 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 
 惊艳的序章打完就剩下没有剧情、单纯接副本任务刷装备、等级和技能书的rpg日常，再加上不确定因素波动和硬核的只能睡一觉存一次档，经历过几次满载而归却在半夜小路上被gouls或者goons截杀然后前功尽弃，耐心就应该消耗得差不多了。从我七月份弃坑以来到写这篇总结为止，制作组就更新了诸如双手斧技能树之类细枝末节的东西。不过可以预见，将来的新副本、新职业套路、新剧情、新增的合成系统和强化后的烹饪、狩猎元素等等还是可以期待的，毕竟现在只做了一个古代巨魔boss就已经很激动人心了。
 
-![Stone Shard](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Stone-Shard.jpg)
+![Stone Shard](Stone-Shard.jpg "Stone Shard")
 
 当然，这个游戏不乏闪光点，实际上作为一款相当复古的跨类型（rpg+roguelite+SLG）游戏，Stoneshard在很多方面已经算得上优秀了。举个例子，地图系统深得老游戏的真传。传统的rpg游戏地图的功能，除了指示方位、标明重要地点和显示地形以外，可以归结为“以主角为中心的任务指向型导航”。每驱散一片战争迷雾或者解锁一个传送点，大地图上都会实时更新，标注好重要npc和设施之类的。但是从前有个游戏叫做Gothic，它的地图是遵循“绘图师画出来的”这个原则，所以不仅不会实时显示主角位置，甚至在极度危险的区域直接是一片空白。对世界的认知随着探索而改变，地图真正成为了辅助工具而不是几秒钟查看一番的导航，于是这种极简被归结为“less is more”。（参考视频见下）
 
-[![Why Gothic's Map Is The Best RPG Map Ever | Gothic 1 Analysis](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Gothic-Map.jpg)](https://www.youtube.com/watch?v=tTO_haaQNRs)
+[![Why Gothic's Map Is The Best RPG Map Ever | Gothic 1 Analysis](Gothic-Map.jpg)](https://www.youtube.com/watch?v=tTO_haaQNRs)
 
 依此为对照，Stoneshard的地图系统也是一脉相承，最危险的地方（比如巨魔领域或者盗贼巢穴、腐化修道院等）被标上问号，而城镇和郊区、一些新手副本则被画了出来，同时，主角的位置不会显示在地图上，只能依照自己的记忆和周边地貌判断自己大致在哪一图格。虽然一开始玩的时候，我这个超级大路痴一直破口大骂，尤其是满载而归却因为看不来地图回不到城镇导致半夜被截杀，但是被虐着虐着一股钦佩之情反而油然而生。我不断反问自己：如果Fallout的pip-boy出现在这个游戏，或者这个游戏的羊皮卷地图替代了废土世界的电子导航，难道会使两个游戏各自变得更好吗？显然，没有最好的，只有最合适的系统。而这个制作组在“让我们的游戏适配最合适的地图系统”和“让玩家有最舒适的地图体验”之间做出了他们的选择，respect！
 
-![Stone Shard Map](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Stone-Shard-Map.jpg "Stone-Shard-Map")
+![Stone Shard Map](Stone-Shard-Map.jpg "Stone-Shard-Map")
 
-![Stone-Shard-Backpack](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Stone-Shard-Backpack.jpg "Stone-Shard-Backpack")
+![Stone-Shard-Backpack](Stone-Shard-Backpack.jpg "Stone-Shard-Backpack")
 
 ---
 
@@ -264,7 +261,7 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 > "I WILL DRINK FROM YOUR SKULL!"
 > 
 
-![Mount & Blade II Bannerlord](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Mount%26Blade%20II%20Bannerlord.jpeg "Mount & Blade II Bannerlord")
+![Mount & Blade II Bannerlord](Mount%26Blade-II-Bannerlord.jpeg "Mount & Blade II Bannerlord")
 
 为什么不放Baldur’s Gate III 而选择Mount & Blade II 呢？首先我没通关博德之门前面的作品，而且小说也只看到第十八章，而战团和各种mod却是实打实玩了几百小时的。其次是Larian Studio，放下D:OS3的日程仅用一年多就开启了BG3EA，这实力和执行力也没什么好鼓励的了；反观砍2，有人等了十来年（虽然我只等了四年），而且从17年开始Taleworld就一直在放更新补丁，光打雷不下雨，而现在终于可以体验了，虽然有诸多不尽如人意的地方，还是稍微鼓励一下吧！会玩的人自然会买，没玩过骑砍前几作的人也可以直接尝试（不过性价比略低啊...如果我不是“情怀”玩家，在我的愿望单里肯定排不上号），反正这类游戏后续的mod才是核心，本体就当支持原作者的副赠品了。。。
 
@@ -287,28 +284,22 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 
 ★★★★☆
 
-![Darkest-Dungeon](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Darkest-Dungeon.jpg "Darkest-Dungeon")
-
+![Darkest-Dungeon](Darkest-Dungeon.jpg "Darkest-Dungeon")
 大部分游戏是从征服的快感、竞技的爽感和建造的成就感中获得乐趣的，但是有一类游戏通向快乐的路径是痛苦。虽然听起来很矛盾，但是对于有“特殊冒险精神”的勇者来说，尤其是像我这样最高难度开荒、不看任何攻略的纯受虐玩家，确实是一种享受...
 
 它们的共同点大概是永久死亡、几乎不能SL、氛围极其黯淡、学习曲线平滑（基础上手门槛高、进阶困难等）、有着自己独特的叙述美学。然而由痛苦导向快乐的前提是，你在玩的是一个优秀的游戏作品。如果质量没有达标，那种空有痛苦的感觉应该是没有玩家希望体验到的。鉴于黑暗地牢也不是什么新游戏了，脱离EA后也就是打补丁、调平衡、出dlc之类的完善操作，其实雏形在16年就已经形成了，各路评论也已经很多了，于是乎就在最后贴几个有着类似哲学属性的作品好了...
 
-![Bannder Saga](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Bannder-Saga.jpg "Bannder-Saga")
+![Bannder Saga](Bannder-Saga.jpg "Bannder-Saga")&ensp;&ensp;![Dark-Souls-III](Dark-Souls-III.jpg "Dark-Souls-III")
+
 长这么大玩过最痛苦的战棋，没有之一。不光是因为每次小退都会自动切换成一坨简中汉化。
-
-![Dark-Souls-III](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Dark-Souls-III.jpg "Dark-Souls-III")
-
 啊...这个其实不应该算的! 感觉换成血源更合适。
 
-![Lisa](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Lisa.jpg "Lisa")
-
+![Lisa](Lisa.jpg "Lisa")&ensp;&ensp;![This War of Mine](This-War-of-Mine.jpeg "This-War-of-Mine")
 A very painful & bizarre indie game. Don't try unless you are as heartless as Chungou.
-
-![This War of Mine](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/This-War-of-Mine.jpeg "This-War-of-Mine")
 
 快乐有时候来自于难度，但痛苦从来都不是。
 
-![Wizardry](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Wizardry.jpeg "Wizardry")
+![Wizardry](Wizardry.jpeg "Wizardry")
 
 世界上最痛苦的RPG，不看攻略不开辅助，据记载世界上只有三个人通关。不好意思，前面几个游戏的痛苦程度加在一起也没有Wizardry IV前三层来得多。这是每个自诩游戏精英的玩家都应该尝试的作品，不管是在第几分钟放弃，它都会作为里程碑载入你的私人游戏史，标志着你对游戏的痛苦哲学有了无上的切身体会：痛苦只是手段，而不是目的。
 
@@ -323,9 +314,7 @@ A very painful & bizarre indie game. Don't try unless you are as heartless as Ch
 > 魔非魔、道非道，善惡在人心。
 > 欲非欲、情非情，姻緣由天定。
 
-![Chinese Paladin](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Chinese-Paladin.jpeg "Chinese Paladin")
-
-![Chinese Paladin Cover](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Chinese%20Paladin-Cover.png "Chinese Paladin-Cover")
+![Chinese Paladin](Chinese-Paladin.jpeg "Chinese Paladin") ![Chinese Paladin Cover](Chinese-Paladin-Cover.png "Chinese Paladin-Cover")
 
 撇开年代造就的技术限制和所谓的情怀加持不谈，仙一乍见之下，有种源头活水般的清爽；久处之后，留住我的反而是诚意——老游戏普遍具有的一种品质。不过弱点也很明显，冗余的迷宫设计（十一层的女娲遗迹是我这种路痴宝藏猎人的痛...）以及完全鸡肋的道具系统等等。但是现在的玩家不会真正在乎扔出一把淘汰的武器能打多少伤害，酒神这个技能的实用性到底如何，或者某个迷宫的角落隐藏着什么小道具，顶多关心下某个角色能不能推倒罢了。而这正是RPG堕落的一种表现，从玩游戏的人和他们玩的游戏，到做游戏的人和他们做的游戏...所以我这样的年轻人玩老游戏，特别是一些在我出生前就问世的老游戏，是为了什么呢？唯尽兴耳，不足为外人道。
 
@@ -335,7 +324,7 @@ A very painful & bizarre indie game. Don't try unless you are as heartless as Ch
 
 ★★★
 
-![Fae-Tactic](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Fae-Tactic.jpg "Fae Tactic")
+![Fae-Tactic](Fae-Tactic.jpg "Fae-Tactic")
 
 这个游戏远远称不上算是一个优秀作品，最多只有合格，而且我也不推荐任何人去玩，尽管我花了五十个小时清掉几乎所有支线、打出了3A4B的人物结局。但是这个游戏对我来说仍然像是彩虹糖，让我重新体会到最初玩游戏，特别是玩indie RPG的感受，那是童年的味道。这将是一段非常私人化的闲言碎语。
 <details>
@@ -356,11 +345,11 @@ A very painful & bizarre indie game. Don't try unless you are as heartless as Ch
 <summary>最后贴一下已经完全不重要的评论（大量剧透警告⚠️）</summary>
 50h+ 和通关存档计时42h比起来发现竟然有8h是战斗读档时间，侧面反应SLG战棋是有多么拖节奏。没刻意刷过，主线支线全清，界面上可见的任务和故事全完成，队友结局竟然还有四个B (Peony - A the girl who saved the world, Pichon - B, Chico - B, Orowantus - B, Erisolde - B, Payachin - A, Tom Tildrum - A)
     
-![Fae Tactic Save](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Fae-Tactic-Save.jpg "Fae-Tactic-Save")
+![Fae Tactic Save](Fae-Tactic-Save.jpg "Fae-Tactic-Save")
     
 游戏主线可以理解为female protagonist+日式rpg冒险找伙伴+牺牲与救赎的英雄主义式结局。虽然放到更大的游戏范畴中怎么看都是低幼cliche，但是受众年龄再小一点就相当合适：首先女主Peony的形象无论对男孩子还是女孩子都很有教育意义，其次写故事的的人不是在说教，是在娓娓道来，第三大概只有童心未泯才能一直玩下去（或者和我一样无聊+真的很喜欢Peony）。何况还能要求Endlessfluff这种移植到console上都要和别人合作而且还由于技术性问题一直没完成的小独立制作组更多东西吗？Fae的IP建立在自己11年的一款三消回合制战斗casual game的基础上，新增女主角Peony的人物原画已经相当不错（简直就像梦回十五岁在日内瓦湖畔邂逅彼时还扎着马尾的青涩Beatrice）。光是这样觉得似乎还说得过去，但是对话的时候看立绘顶多只花几个小时，游戏内各种系统却是实实在在体验了几十小时的。
     
-![Fae Tactic Ending](../annual%20game%20reviews%202021/Annual%20Game%20Reviews%20-%202020/Fae-Tactic-Ending.jpg "Fae-Tactic-Ending")
+![Fae Tactic Ending](Fae-Tactic-Ending.jpg "Fae-Tactic-Ending")
     
 在战棋这种游戏类型的局限性已经相当大的情况下，这款游戏的各项系统也没有特别丰富，也会采用改个颜色就是新的敌人/召唤兽的省钱操作，几场反人类战斗还特别喜欢开局设置很多转移伤害的元素水晶强行拖时间。合成、加点、烹饪（翻卡小游戏，作为战前buff）之类的没什么好说的，重点谈一下战斗系统，综合看来这个游戏的战斗设计水准是配不上人物原画和剧本的。首先过度依赖于数值而轻视游戏性，使得战斗更像是在制作组编好的数学算法规则内下棋，而不是在玩战术多样、内容丰富、节奏起伏的战棋类游戏——绝大部分输出都来自于普通攻击和强化普通攻击，采用概率命中和地形/位置固定比例加成，移动无碰撞体积和惩罚。因此基本上所有战斗采用一个思路，死磕数值磨到十几回合都能致胜，那就是防御策略用buff提高全员血线增加容错率，进攻策略用减护甲围殴boss三五回合即可致死。没有技能和主动道具，异常状态在属性克制创造的数值差距鸿沟面前可以直接忽略，这直接导致至少三十小时的战斗流程非常单调重复。
     
