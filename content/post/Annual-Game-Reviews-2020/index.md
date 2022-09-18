@@ -154,8 +154,6 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 
 如果三代还是不从根本上改变，而只做些细枝末节的修饰，未来也可想而知了(endless dlc wwwww)。但是如果XCOM3做成奇美拉小队的模式，那也还是算了吧。只能说奇美拉小队的方向是对的，却没那么有效，前面的路还挺长的，期待能玩到脱胎换骨的XCOM3。
 
-![](DrawSword.gif "DrawSword")
-
 ### **Katana ZERO**
 
 :point_right: **[Notion Portal](https://www.notion.so/Katana-ZERO-bcfa7cd3de46426cbf266d984987e649)**
