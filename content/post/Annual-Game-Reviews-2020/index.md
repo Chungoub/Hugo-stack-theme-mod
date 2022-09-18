@@ -6,14 +6,8 @@ image:
 categories:
     - Annual Game Reviews
 ---
-
-
----------
-
 # 一、**目录**
 由于Notion原页面中采用的是Table of content功能，在文章开头创建一个目录，如果不使用第三方插件的话是无法实现侧边栏目录的功能的。好在这个博客模板足够强大，
-
----
 
 # 二、全局总结
 
@@ -23,14 +17,13 @@ categories:
 - 玩的游戏类型很杂乱： Card (15.2%) | ARPG (10.9%) | CRPG (23.9%) | Survivor (12.8%) 。2021年的游戏心愿是再少玩点Roguelike和Action（因为实在是太容易上瘾啦！），下棋也尽量少点，要多玩文字游戏。
 - 总共记录十一个游戏，设置三个年度最佳奖，两个意外惊喜奖，三个EA鼓励奖，再设置几个花里胡哨的自嗨奖项：Chungou的快乐彩虹糖奖、Chungou的怀旧大冒险奖、Chungou的痛苦小皮鞭奖。
 
----
-
 # 三、颁奖典礼
 
 ## 1. 年度最佳 （共2100字）
 
 ### **METAL GEAR SOLID V: THE PHANTOM PAIN**
 **[Notion Portal](https://www.notion.so/METAL-GEAR-SOLID-V-THE-PHANTOM-PAIN-2294ccfb79ee4f1d91f0cb257947a2d7)**
+
 ★★★★★
 
 > -&nbsp;What if she's a spy?<br>- What if I'm a spy?
@@ -41,9 +34,7 @@ categories:
 
 虽然前面的七八部合金装备系列作品我一部都没玩过，甚至连相当于本作前身的Ground Zero我也没玩过，但是都不妨碍全身心沉浸在幻痛的世界中。虽然刚开始主线有点摸不着头脑，让我误判这是个讲述阿富汗战争老兵PTSD发作的故事，然而其实一切都是真实发生的，游戏主题是espionage，主打潜行暗杀和基地建设。对我来说这个游戏最大的闪光点其实并不是潜行玩法或者系列作品第一次实现的开放世界，也不是Kojima引以为傲的游戏电影化和主线剧情（虽然看到第一章结尾致意世界上消逝了很多种语言，还是有点感动的），而是家园系统。用一个面板就能解决crafting, deployment, personnel, building...诸如此类的战斗之外的操作，深得less is more简约哲学之精髓。Fallout 4和古剑奇谭这种家园系统冗余的典型如果能学到一星半点，游戏体验会改善许多。
 
-![Fallout 4 - 自家菜园子 80h至少有10h在种菜和摆家具（Minuteman线更甚）](Fallout-4-Settlements-Jobs.jpg "Fallout-4-Settlements-Jobs.jpg")![MGS V: Phantom Pain - 人员分配面板 用于调度personnel和收获dispatch reward的时间不超过2h](Personnel-Dispatch.jpg "Personnel-Dispatch")
-<br />
-
+![Fallout 4 - 自家菜园子|80h至少有10h在种菜和摆家具（Minuteman线更甚）](Fallout-4-Settlements-Jobs.jpg "Fallout-4-Settlements-Jobs.jpg")![MGS V: Phantom Pain - 人员分配面板|用于调度personnel和收获dispatch reward的时间不超过2h](Personnel-Dispatch.jpg "Personnel-Dispatch")
 <details>
 <summary>至于关卡设计，算是第二个让我极度满意的部分。（<span style="color:red">剧透警告⚠️SPOILER WARNING</span>）</summary>
 拯救Miller被Skulls追逐重开了足足三次，然后是和Quiet对狙最后成功把她扛上贼船（Extream模式是真的难，呜呜呜），后来在非洲遇到娃娃兵并且收服他们的头领White Manba（好像和Snake有某种渊源），又在一个溪谷与四个寄生虫女狙击手对狙，再后来大战Skullface的暴走大机器人...
@@ -52,11 +43,10 @@ categories:
 一般的任务通常是既可以选择无脑突入，也可以每个哨卡都暗杀潜行（我最喜欢的抓奴隶玩法...因为勒晕了敌军士兵可以送到自己基地做苦力，哈哈），当然也可以暗杀一半正面突入一半。上面提到的boss战则各有特色，不仅宏大场面和室内小空间并存，而且玩法多元，追逐、躲藏、肉搏、对狙、重武器轰炸应有尽有。每一场冒险虽然没有日式RPG那种和伙伴一起打败魔王的幸福感、归属感，但是作为孤胆英雄，七进七出，拯救世界（和新老部下），收获的大概是一种不一样的...自信？
 </details>
 
----
-
 ### **Divinity: Original Sin II**
 
 **[Notion Portal](https://www.notion.so/Divinity-Original-Sin-II-83d9e07cab694dc9aed698593f2f7202)**
+
 ★★★★★
 
 ![Divinity: Original Sin II](Divinity_Original_Sin_II.webp "Divinity_Original_Sin_II")
@@ -82,24 +72,22 @@ categories:
 
 虽然总体来说，神界原罪一算是不错的游戏，但是原罪二能在它的基础上全方位更进一大截，就相当值得钦佩了。满分推荐！
 
----
-
 ### **Disco Elysium**
 
 **[Notion Portal](https://www.notion.so/Disco-Elysium-71b323d7d5b94b84878daf9d77e7848a)**
+
 ★★★★★
 
 ![Disco Elysium](Disco-Elysium.jpg "Disco Elysium")
 
 都2022了还不快去把结局通了！不写了！生气气！
 
----
-
 ## **意外惊喜 （共1700字，另有折叠评论1700字）**
 
 ### Phoenix Point
 
 **[Notion Portal](https://www.notion.so/Phoenix-Point-f60a0bc139794cba91319a650dc4b273)**
+
 ★★★★
 
 > Sometimes the end has to justify the means.
@@ -126,7 +114,6 @@ categories:
     
 最后是局外构筑和building一类的东西，还是具有一定策略性的。比如前期sniper+shotgun的配合，比如后期双职业heavy+sniper爆炸输出，再比如娱乐打法双职业stealth+berserker蜘蛛流。只不过这些人物构筑都是为了战斗而服务，再乐此不疲最终还是要回到重复千百遍的战场上去。相比之下，基地建设就简化得很休闲，总共将近二十种建筑，可以在全球各个设定好的位点建立多个基地，可以拥有最多八艘飞船在全球执行任务（所以任务节奏可以变得很紧）。我的通关存档总共建造了八个基地，四艘飞船，拥有四十多名兵员，后期几乎每隔几秒钟就要进行一次战斗（当然一大部分可以不打）。
 </details>
-<br />
 
 **再梳理一下XCOM系列**<br />
 **1994: X-COM: UFO Defense (UFO: Enemy Unknown)**
@@ -171,8 +158,6 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 
 如果三代还是不从根本上改变，而只做些细枝末节的修饰，未来也可想而知了(endless dlc wwwww)。但是如果XCOM3做成奇美拉小队的模式，那也还是算了吧。只能说奇美拉小队的方向是对的，却没那么有效，前面的路还挺长的，期待能玩到脱胎换骨的XCOM3。
 
----
-
 ![](DrawSword.gif "DrawSword")
 
 ### **Katana ZERO**
@@ -208,11 +193,10 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 **Nov 27, 2020**
 尝试了一下第三个人物之后，感觉新机制的创新还行，卡牌也很有趣。就是流程过短，应该是没做完，还有感觉原地结婚这个小结局确实匪夷所思，希望接下去的后半段剧情不要做得太奇怪。
 
----
-
 ### **Stoneshard**
 
 **[Notion Portal](https://www.notion.so/Stoneshard-630b9747c20b46b3af4cc604c9877608)**
+
 ★★★
 
 **Last Played Version**: 0.5.9.5
@@ -232,8 +216,6 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 ![Stone Shard Map](Stone-Shard-Map.jpg "Stone-Shard-Map")
 
 ![Stone-Shard-Backpack](Stone-Shard-Backpack.jpg "Stone-Shard-Backpack")
-
----
 
 ### **Mount & Blade II: Bannerlord**
 
@@ -261,7 +243,6 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
     
     因为懒得自己砍想玩智魅流，结果体验还行，因为骑行和弓箭一些设定都改了，所以操作还不适应，阴差阳错第一个档也就这样下去了。但是没有感受到之前宣发的时候说的政治系统有多么强大，就多了个家族和管理，和npc交互还是一如既往的简单无脑，希望之后能更丰富吧。
     
-
 ---
 
 ## **彩蛋三枚（共1300字，另有废话2400字）**
@@ -286,11 +267,10 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 
 最后插一句，Darkest Dungeon里面的角色在stress bar变满之后会经历一场考验，绝大多数成为了traumatized troublemaker，少数由于具备特定quirk (可以看作是天赋秉性）或是佩带了trinket (可以看作是寄托了信念的护身符）或是单纯挺过了至暗时刻而成为“the Enlightened”，在队伍中发挥至关重要的作用。其实生活就是黑暗地牢，如果你现在正在像Chungou一样经历着考验，或者正在更加阴暗的副本中劈荆斩棘... Pathfinder, let's sit around the bonfire and inquiry - post-traumatic growth or post-traumatic stress disorder, which way?
 
----
-
 ### **Chungou的怀旧大冒险 - 仙劍奇俠傳**
 
 **[Notion Portal](https://www.notion.so/The-Legend-of-Sword-and-Fairy-Chinese-Paladin-4598847c5c1d47428af26de382ae0228)**
+
 ★★★★☆
 
 > 魔非魔、道非道，善惡在人心。
@@ -300,11 +280,10 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 
 撇开年代造就的技术限制和所谓的情怀加持不谈，仙一乍见之下，有种源头活水般的清爽；久处之后，留住我的反而是诚意——老游戏普遍具有的一种品质。不过弱点也很明显，冗余的迷宫设计（十一层的女娲遗迹是我这种路痴宝藏猎人的痛...）以及完全鸡肋的道具系统等等。但是现在的玩家不会真正在乎扔出一把淘汰的武器能打多少伤害，酒神这个技能的实用性到底如何，或者某个迷宫的角落隐藏着什么小道具，顶多关心下某个角色能不能推倒罢了。而这正是RPG堕落的一种表现，从玩游戏的人和他们玩的游戏，到做游戏的人和他们做的游戏...所以我这样的年轻人玩老游戏，特别是一些在我出生前就问世的老游戏，是为了什么呢？唯尽兴耳，不足为外人道。
 
----
-
 ### **Chungou的快乐彩虹糖 - Fae Tactic**
 
 **[Notion Portal](https://www.notion.so/Fae-Tactics-48704040ce6547dba60d8ac6dc1286e5)**
+
 ★★★
 
 ![Fae-Tactic](Fae-Tactic.jpg "Fae-Tactic")
