@@ -281,7 +281,7 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 
 ★★★
 
-![Fae-Tactic](Fae-Tactic.jpg "Fae-Tactic")
+![Fae Tactic](Fae-Tactic.jpg "Fae-Tactic")
 
 这个游戏远远称不上算是一个优秀作品，最多只有合格，而且我也不推荐任何人去玩，尽管我花了五十个小时清掉几乎所有支线、打出了3A4B的人物结局。但是这个游戏对我来说仍然像是彩虹糖，让我重新体会到最初玩游戏，特别是玩indie RPG的感受，那是童年的味道。这将是一段非常私人化的闲言碎语。
 <details>
