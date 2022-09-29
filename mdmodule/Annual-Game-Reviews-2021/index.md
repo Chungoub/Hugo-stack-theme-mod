@@ -7,7 +7,6 @@ tags:
     - Annual Game Review
 categories:
     - Game
-
 ---
 
 **BGM: Cosmic Accelerator - エレクトリックな４つ打ちダンスミュージックです。テーマは宇宙の旅。**
