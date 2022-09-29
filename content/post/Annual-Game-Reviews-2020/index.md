@@ -52,7 +52,7 @@ categories:
 
 ★★★★★
 
-![Divinity: Original Sin II](Divinity_Original_Sin_II.webp "Divinity_Original_Sin_II")
+![Divinity: Original Sin II](Divinity-Original-Sin-II.webp "Divinity_Original_Sin_II")
 
 说起来，这是第三次通关这个游戏了，因为今年和好友在无外部备份存档的情况下合作通关了最高难度honor mode，所以算是正式完结，大概游戏时长也会永久定格在320.6h上吧（实际上打了350h左右）。但是还是略有遗憾的，比如Lohse的所有剧情我从未体验过，这大概是唯一一位n周目从未带上船的伙伴了，而且她的最终剧情还特别棒，无缘听到她的歌声了，呜呜呜。
 
