@@ -52,7 +52,7 @@ categories:
 
 ★★★★★
 
-<!-- ![Divinity: Original Sin II](Divinity-Original-Sin-II.webp "Divinity_Original_Sin_II") -->
+![Divinity: Original Sin II](Divinity-Original-Sin-II.jpg "Divinity_Original_Sin_II")
 
 说起来，这是第三次通关这个游戏了，因为今年和好友在无外部备份存档的情况下合作通关了最高难度honor mode，所以算是正式完结，大概游戏时长也会永久定格在320.6h上吧（实际上打了350h左右）。但是还是略有遗憾的，比如Lohse的所有剧情我从未体验过，这大概是唯一一位n周目从未带上船的伙伴了，而且她的最终剧情还特别棒，无缘听到她的歌声了，呜呜呜。
 
@@ -164,7 +164,7 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 
 ![Katana ZERO](Katana-ZERO.jpg "Katana-ZERO")
 ![Hades](Hades.png "Hades")
-![Cuphead](Cuphead.webp "Cuphead")
+![Cuphead](Cuphead.jpg "Cuphead")
 
 打个不恰当的比方，在Hades之后玩Katana ZERO，就好像在十五年前玩Cuphead一样（哈哈，一句话黑了三个游戏，虽然它们除了action基本上没什么共同点...）虽然说这个游戏玩法本质上是靠背板+肌肉记忆，但是核心却绝不是传统意义上的闯关。检验一个东西的重要性的最简单方法，就是把它去掉。倘若这个游戏没有选项、分支和对话，那么上限最多是个爽感十足的HCG。而只有经历了手眼协调的考验之后，再加上那么一点点的灵肉拷问，大概就是目前“优秀游戏”的不二法门了吧。
 
