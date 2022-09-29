@@ -2,7 +2,7 @@
 title: ChunのBlender学习记录-Lv.1
 description:
 date: 2022-09-28
-tag:
+tags:
     - Blender
 categories:
     - Software
