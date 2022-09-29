@@ -10,7 +10,7 @@ categories:
 ---
 
 **BGM: Cosmic Accelerator - エレクトリックな４つ打ちダンスミュージックです。テーマは宇宙の旅。**
-<audio>
+<audio controls="" preload="none">
     <source scr="Cosmic-Accelerator.mp3">
 </audio>
 ---
