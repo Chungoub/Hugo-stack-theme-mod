@@ -57,7 +57,7 @@ categories:
 说起来，这是第三次通关这个游戏了，因为今年和好友在无外部备份存档的情况下合作通关了最高难度honor mode，所以算是正式完结，大概游戏时长也会永久定格在320.6h上吧（实际上打了350h左右）。但是还是略有遗憾的，比如Lohse的所有剧情我从未体验过，这大概是唯一一位n周目从未带上船的伙伴了，而且她的最终剧情还特别棒，无缘听到她的歌声了，呜呜呜。
 
 <details>
-<summary>作为一个先玩了神界原罪一代两百小时后，再玩二代三百小时的合格玩家，我觉得这部作品实至名归，配得上本世纪目前为止最佳CRPG的称号（当然也有很大进步空间）。（<span style="color:red">剧透警告⚠️SPOILER WARNING</span>）</summary>
+<summary>作为一个先玩了神界原罪一代两百小时后，再玩二代三百小时的合格玩家，我觉得这部作品实至名归，配得上本世纪目前为止最佳CRPG的称号（当然也有很大进步空间）。（<span style="color:red">剧透警告:warning:SPOILER WARNING</span>）</summary>
 和初代类似，这个游戏最好玩的部分也在前期，拥有极少资源的情况下享受合成的乐趣以及奇妙combo，达到以弱胜强的目的；然后是中期的黑井矿坑Gwydian Rince之战，和后期在阿克斯城打医生，反而是最终boss战相当无聊。不同的是，神界原罪一在经过了第一章解谜部分之后，从黑湾开始一直在走下坡路，而原罪二的解谜元素是围绕中期获得灵视能力而展开的，逃出欢乐堡只是开始，可玩性一路上升。
 </details>
 <br />
@@ -101,7 +101,7 @@ categories:
 
 <details>
 <summary>
-部分原始评论（<span style="color:red">包含大量复述型剧透⚠️</span>）</summary>
+部分原始评论（<span style="color:red">包含大量复述型剧透:warning:SPOILER WARNING</span>）</summary>
 连续十二天平均每天七八个小时，磨完主线流程和绝大部分支线。dlc质量较差，特别是artifact，强行拖时间，基本上可以直接忽略。选择了走Phoenix Point 正统结局，利用古代人Antivirus 科技消灭Yuggothion Receptacle然后同时对现在的世界生态造成巨大损伤 (Sometimes the end has to justify the means.) 还有三个派系结局，Disciples of Anu 变异女教皇统治世界人类开始进化（Phoenix Point eventually faded into shadow.）、New Jericho 建立人类共同联盟、Synderion净化世界但是没有打败Yuggothian。总觉得不论走什么路，都是悲观主义基调，虽然有一丝丝的希望，总体上真是很伤感啊。<br /><br />
 游戏内的势力分布包括：1.Phoenix Point 作为上个世代人类遗留下来的自救计划/组织，是玩家操控的主要对象。 2. The Disciples of Anu 宗教团体，由不完全受外星人掌控的女教皇主导，倡导人类不断进化与新世界共存 3. New Jericho 军事力量最强的独裁势力，相当于保守的人类主义者，要消灭一切变异病毒 4. Synderion 实力最弱的环保主义两面派，派系内的两种声音在游戏早期就呈递给玩家选择，净化世界or融入世界 5. The Pure 赛博主义游击队，全员实现高度义体化，并且致力于把全人类向机械生命体的方向转变，由于首领讲话太嚣张自身又没什么实力，前期帮了几次后面被我灭掉了。6. The Forsaken 一些派系内分裂出来的小团体或者中立小势力，例如图中的日本女皇，还有新西兰刷出来过一个叫the Father 的Anu内部的教派领袖，扶持他们可以帮助破坏敌对势力的基地，虽然我只是为了好玩才做这些刷出来的中立任务的。。。
     
@@ -299,7 +299,7 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 所以说当看到这个小制作组在自己网站上发声明说感谢大家支持，现在正在和外面的组合作移植到console上（因为技术原因自己搞不定），我就觉得他们好困窘好贫乏，就算做出了这么一个并不算好玩而且缺点很多的游戏，但是却当作自己的宝贝，这种精神让我瞬间感动，并且让我回想起上次类似的感动是感受到潘大吐槽bug太多自己写脚本能力又跟不上，承诺会尽快打新版本补丁时喜忧参半的语气。所以好不好玩什么的都无所谓了，我只打了五十个小时，而背后的他们却为了给我带来快乐而呕心沥血了五千个小时。感谢五十多个小时的陪伴，Peony和Endlessfluff Games的大家，江湖有缘再会啦！
 <br /><br />
 <details>
-<summary>最后贴一下已经完全不重要的评论（<span style="color:red">大量剧透警告⚠️</span>）</summary>
+<summary>最后贴一下已经完全不重要的评论（<span style="color:red">大量剧透警告:warning:SPOILER WARNING</span>）</summary>
 50h+ 和通关存档计时42h比起来发现竟然有8h是战斗读档时间，侧面反应SLG战棋是有多么拖节奏。没刻意刷过，主线支线全清，界面上可见的任务和故事全完成，队友结局竟然还有四个B (Peony - A the girl who saved the world, Pichon - B, Chico - B, Orowantus - B, Erisolde - B, Payachin - A, Tom Tildrum - A)
     
 ![Fae Tactic Save](Fae-Tactic-Save.jpg "Fae-Tactic-Save")
