@@ -163,7 +163,7 @@ XCOM之父Julian Gollop创立的Snapshot Games （致敬初代UFO！）终于接
 ★★★★
 
 ![Katana ZERO](Katana-ZERO.jpg "Katana-ZERO")
-
+</br>
 ![Hades](Hades.png "Hades")![Cuphead](Cuphead.jpg "Cuphead")
 
 打个不恰当的比方，在Hades之后玩Katana ZERO，就好像在十五年前玩Cuphead一样（哈哈，一句话黑了三个游戏，虽然它们除了action基本上没什么共同点...）虽然说这个游戏玩法本质上是靠背板+肌肉记忆，但是核心却绝不是传统意义上的闯关。检验一个东西的重要性的最简单方法，就是把它去掉。倘若这个游戏没有选项、分支和对话，那么上限最多是个爽感十足的HCG。而只有经历了手眼协调的考验之后，再加上那么一点点的灵肉拷问，大概就是目前“优秀游戏”的不二法门了吧。
