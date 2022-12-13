@@ -2,7 +2,7 @@
 title: Annual Game Reviews - 2020
 description: Chungou的2020年度游戏总结，搬运自Notion主页
 date: 2021-01-19
-image:
+image: header.png
 tags:
     - Annual Game Review
 categories:
