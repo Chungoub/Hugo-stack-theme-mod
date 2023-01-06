@@ -196,7 +196,11 @@ menu:
           url: https://www.notion.so/chungou/Welcome-Home-Chungou-a80194da7a764205b768439536cf32fb
           params:
               icon: notion
-
+        - identifier: Mastodon
+          name: Mastodon
+          url: https://douchi.space/web/@BountyHunker
+          params:
+              icon: notion
 related:
     includeNewer: true
     threshold: 60
