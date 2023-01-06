@@ -200,7 +200,7 @@ menu:
           name: Mastodon
           url: https://douchi.space/web/@BountyHunker
           params:
-              icon: notion
+              icon: mastodon
 related:
     includeNewer: true
     threshold: 60
